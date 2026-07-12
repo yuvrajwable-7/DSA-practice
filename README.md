@@ -8,11 +8,12 @@ This repository contains my Data Structures and Algorithms (DSA) practice in C++
 - Binary Search
 - Strings
 - Linked List
+- Recursion
 - Stack
 - Queue
 - Trees
 - Graphs
-- Dynamic Programming
+
 
 ## 💻 Language
 
